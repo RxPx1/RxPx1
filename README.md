@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer with a degree in Software Engineering (Java) from WGU. <br> I have experience in Java, Python, C++, JavaScript, HTML, CSS, SQL, and Postgres SQL. Plus numerous Frameworks <br><br> I was a self taught programmer for years before finally deciding to go to school and earn my degree.  
+I am a Software Engineer with a degree in Software Engineering (Java) from WGU. <br> I have experience in Java, Python, C++, Kotlin(Andriod SDK), JavaScript, HTML, CSS, SQL, and Postgres SQL. Plus numerous Frameworks <br><br> I was a self taught programmer for years before finally deciding to go to school and earn my degree.  
 
 
 ## 🌐 Socials:
