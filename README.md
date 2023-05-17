@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at WGU in Software Development.<br>With a concentration in Java. <br>We also learn Python, C++, JavaScript, HTML, CSS, and Kotlin.<br><br>I was a self-taught programmer for a few years before going to school for my degree.<br>I mainly focused on Python and Java. 
+I am a Software Engineer with a degree in Software Engineering (Java) from WGU. <br> I have experience in Java, Python, C++, JavaScript, HTML, CSS, SQL, and Postgres SQL. Plus numerous Frameworks <br><br> I was a self taught programmer for years before finally deciding to go to school and earn my degree.  
 
 
 ## 🌐 Socials:
